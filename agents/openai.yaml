@@ -1,0 +1,7 @@
+interface:
+  display_name: "Agent Lane Coop"
+  short_description: "Register lanes and sync threads"
+  default_prompt: "Use $agent-lane-coop to register this thread in the project lane folder and coordinate with other Codex sessions."
+
+policy:
+  allow_implicit_invocation: true
